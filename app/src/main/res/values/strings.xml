@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="zero">0</string>
+    <string name="cr">onCreate</string>
+    <string name="st">onStart</string>
+    <string name="rs">onResume</string>
+    <string name="pa">onPause</string>
+    <string name="sp">onStop</string>
+    <string name="re">onRestart</string>
+    <string name="de">onDestroy</string>
+</resources>
